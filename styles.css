@@ -1,0 +1,14 @@
+.maintitleheader {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:64px;
+    color:black;
+}
+.recipeitem {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:22px;
+    color:black;
+}
+.mainpagebody {
+    text-align:center;
+    background-color:peru;
+}
