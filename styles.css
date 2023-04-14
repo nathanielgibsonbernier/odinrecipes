@@ -1,5 +1,5 @@
 .maintitleheader {
-    font-family:palatino;
+    font-family:Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
     font-size:64px;
     color:black;
     font-weight:900;
@@ -17,6 +17,7 @@ img {
     margin-right:auto;
     width:700px;
     opacity: 60%;
+    border-radius: 50px;
 }
 a:link {
     text-decoration: none;
@@ -42,4 +43,5 @@ body {
 
 .recipepagetitle, p {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
