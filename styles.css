@@ -1,7 +1,8 @@
 .maintitleheader {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:palatino;
     font-size:64px;
     color:black;
+    font-weight:900;
 }
 .recipeitem {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
